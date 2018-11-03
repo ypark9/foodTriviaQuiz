@@ -1,0 +1,21 @@
+{
+  "name": "food-of-the-world-quiz",
+  "version": "1.0.0",
+  "description": "Trivia quiz for the World foods fans.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "trivia",
+    "world",
+    "food"
+  ],
+  "author": "YopaFuntime",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.12"
+  }
+}
